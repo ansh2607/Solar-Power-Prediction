@@ -4,7 +4,7 @@ Solar energy plays an increasingly important part of the country’s growth and 
 ### Cleaning of data
 The data cleaning and transformation tasks were systematically performed through the Python programming language. The tasks were decomposed and grouped into logical modules through custom-built functions in Python.
 The critical alarms data cleaning tasks involve the following:
-• Input: Critical Alarm Dataset files in Excel (XLSX) format./n
+• Input: Critical Alarm Dataset files in Excel (XLSX) format.\n
 • Output(s): processed alarm Dataset.csv, pivoted alarm Dataset.csv
 – Merging all the files containing yearly data into one dataframe
 – Categorized the grid and non-grid events in a seperate column
